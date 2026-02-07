@@ -24,7 +24,7 @@ function Hero() {
             </span>
           </div>
 
-          <h2 className="role">Business Intelligence Analyst</h2>
+          <h2 className="role">BI Analyst</h2>
 
           <p className="subtitle">
          Collects, Analyzes, and transforms data into meaningful insights that help organizations make informed decisions who build dashboards and reports, track KPIs, and identify trends to measure business performance.
