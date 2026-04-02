@@ -30,11 +30,11 @@ function WhatIDo() {
               <p>Decision-Making Efficiency Improvement</p>
             </div>
             <div className="illus-stat">
-              <h4>120+</h4>
+              <h4>30+</h4>
               <p>Dashboards & Reports Delivered</p>
             </div>
             <div className="illus-stat">
-              <h4>8M+</h4>
+              <h4>2M+</h4>
               <p>Business Records Analyzed</p>
             </div>
           </div>
